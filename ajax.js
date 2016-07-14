@@ -1,4 +1,4 @@
 "use strict";
-var AjaxObservable = require('./Objaxable');
+var AjaxObservable = require('./AjaxObservable');
 exports.ajax = AjaxObservable.AjaxObservable.create;
 //# sourceMappingURL=ajax.js.map
